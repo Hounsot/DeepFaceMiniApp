@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DeepFaceMiniApp/static/css/main.867ae655.css",
+    "main.css": "/DeepFaceMiniApp/static/css/main.f5c98704.css",
     "main.js": "/DeepFaceMiniApp/static/js/main.5706477e.js",
     "static/js/453.7e5665ce.chunk.js": "/DeepFaceMiniApp/static/js/453.7e5665ce.chunk.js",
     "static/media/AppBackgroundWider.png": "/DeepFaceMiniApp/static/media/AppBackgroundWider.ed48b2ca6bc34db58bc1.png",
     "index.html": "/DeepFaceMiniApp/index.html",
-    "main.867ae655.css.map": "/DeepFaceMiniApp/static/css/main.867ae655.css.map",
+    "main.f5c98704.css.map": "/DeepFaceMiniApp/static/css/main.f5c98704.css.map",
     "main.5706477e.js.map": "/DeepFaceMiniApp/static/js/main.5706477e.js.map",
     "453.7e5665ce.chunk.js.map": "/DeepFaceMiniApp/static/js/453.7e5665ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.867ae655.css",
+    "static/css/main.f5c98704.css",
     "static/js/main.5706477e.js"
   ]
 }
