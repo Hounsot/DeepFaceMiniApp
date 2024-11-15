@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DeepFaceMiniApp/static/css/main.9a818eb7.css",
-    "main.js": "/DeepFaceMiniApp/static/js/main.4952c191.js",
+    "main.css": "/DeepFaceMiniApp/static/css/main.a20ff1d9.css",
+    "main.js": "/DeepFaceMiniApp/static/js/main.5422c983.js",
     "static/js/453.7e5665ce.chunk.js": "/DeepFaceMiniApp/static/js/453.7e5665ce.chunk.js",
     "static/media/AppBackgroundWider.png": "/DeepFaceMiniApp/static/media/AppBackgroundWider.ed48b2ca6bc34db58bc1.png",
     "index.html": "/DeepFaceMiniApp/index.html",
-    "main.9a818eb7.css.map": "/DeepFaceMiniApp/static/css/main.9a818eb7.css.map",
-    "main.4952c191.js.map": "/DeepFaceMiniApp/static/js/main.4952c191.js.map",
+    "main.a20ff1d9.css.map": "/DeepFaceMiniApp/static/css/main.a20ff1d9.css.map",
+    "main.5422c983.js.map": "/DeepFaceMiniApp/static/js/main.5422c983.js.map",
     "453.7e5665ce.chunk.js.map": "/DeepFaceMiniApp/static/js/453.7e5665ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a818eb7.css",
-    "static/js/main.4952c191.js"
+    "static/css/main.a20ff1d9.css",
+    "static/js/main.5422c983.js"
   ]
 }
