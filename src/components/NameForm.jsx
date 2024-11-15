@@ -17,6 +17,7 @@ const NameForm = ({ onContinue }) => {
         <input className="A_Input" placeholder='Дипфейс'
           type="text"
           value={name}
+          required
           onChange={(e) => setName(e.target.value)}
         />
       </label>
@@ -25,6 +26,7 @@ const NameForm = ({ onContinue }) => {
         <input className="A_Input" placeholder='Эйдисиевич'
           type="text"
           value={surname}
+          required
           onChange={(e) => setSurname(e.target.value)}
         />
       </label>
